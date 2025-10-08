@@ -19,3 +19,5 @@ for(let char of upper){
     result += char;
 }
 console.log(result);
+
+// Output: "HELLO"
