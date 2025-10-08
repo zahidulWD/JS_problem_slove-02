@@ -26,14 +26,6 @@ for(let i =0; i < str.length; i++){
 
 
 
-
-
-
-
-
-
-
-
 // slove_02
 // let str = "Code";
 
